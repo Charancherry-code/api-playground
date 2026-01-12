@@ -88,12 +88,12 @@ This project provides a simple API playground featuring:
 
 ## Live URLs
 
-- Frontend: [Your Vercel URL]
-- API Base: [Your Vercel URL]/api
+- Frontend: https://api-playground-sigma.vercel.app/
+- API Base: https://api-playground-sigma.vercel.app/api/health
 
 ## Resume Link
 
-[Your Resume Link]
+https://drive.google.com/file/d/1ST_yugYcVc4HlVjRdqut9ZX8BpReASEn/view?usp=drive_link
 
 ## Testing Checklist
 

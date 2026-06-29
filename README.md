@@ -25,7 +25,7 @@ This project provides a simple API playground featuring:
 - Supabase
 - HTML, Tailwind CSS, Vanilla JavaScript
 
-## API Endpoints
+## API Endpoints..
 
 ### Health Check
 
